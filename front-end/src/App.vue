@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header id="header">
-      <h1>Light on a Hill</h1>
+      <h1>City on a Hill</h1>
       
       <nav>
         <router-link to="/"><i class="fas fa-home"></i></router-link>
