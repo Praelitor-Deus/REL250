@@ -37,4 +37,4 @@ app.use(cookieSession({
 app.use("/api/users", users.routes);
 app.use("/api/photos", photos.routes);
 
-app.listen(3001, () => console.log('Server listening on port 3001!'));
+app.listen(3002, () => console.log('Server listening on port 3002!'));
